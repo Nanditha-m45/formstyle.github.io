@@ -1,0 +1,27 @@
+fieldset{
+    background-color: lightblue;
+    color:black;
+    font-size: 15px;
+    border: 5px solid blue;
+
+}
+
+
+body{
+    background-color: blanchedalmond;width: fit-content;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: midnightblue;
+}
+
+button{
+    color: darkslategrey;
+    text-decoration: double;
+    border-radius: 10px;
+    font-size: 25px;
+    
+}
+button:hover{
+    background-color: deepskyblue;
+}
